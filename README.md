@@ -1,5 +1,7 @@
 # ward1
 <!doctype html> 
+<index.html>
+
 <head>
 </head> 
 <body> 
